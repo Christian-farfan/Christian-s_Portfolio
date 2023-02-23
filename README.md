@@ -1,2 +1,2 @@
-# Data analysis on Boston housing market optained from the U.S. Census Serives.
+# Analyzing data on the Boston housing market, sourced from the U.S. Census Services
 
